@@ -5,11 +5,12 @@ Alae Eddine CHERQI - Software Engineer
 
     Languages: Java, TypeScript
     Frontend: Angular
-    DevOps: Docker
+    DevOps: Docker, Kubernetes
 
 🚀 What I Do
 
 I specialize in developing fullstack solutions using Java and dynamic and responsive user interfaces with Angular. My passion extends to the realm of DevOps, where I enjoy working with Docker to containerize applications and streamline the deployment process.
+Recently, I obtained the certification in Kubernetes CKAD, further enhancing my DevOps skills.
 🌱 Learning & Growth
 
 In the fast-paced world of technology, I believe in the power of continuous learning. I am always exploring new tools, frameworks, and methodologies to stay ahead of the curve. Sharing knowledge is a key aspect of my journey, and I actively contribute to the developer community.
